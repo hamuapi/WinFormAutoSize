@@ -1,0 +1,10 @@
+D:\1BOX\TestRelative\TestRelative\bin\Debug\TestRelative.exe.config
+D:\1BOX\TestRelative\TestRelative\bin\Debug\TestRelative.exe
+D:\1BOX\TestRelative\TestRelative\bin\Debug\TestRelative.pdb
+D:\1BOX\TestRelative\TestRelative\obj\Debug\TestRelative.csprojAssemblyReference.cache
+D:\1BOX\TestRelative\TestRelative\obj\Debug\TestRelative.Form1.resources
+D:\1BOX\TestRelative\TestRelative\obj\Debug\TestRelative.Properties.Resources.resources
+D:\1BOX\TestRelative\TestRelative\obj\Debug\TestRelative.csproj.GenerateResource.cache
+D:\1BOX\TestRelative\TestRelative\obj\Debug\TestRelative.csproj.CoreCompileInputs.cache
+D:\1BOX\TestRelative\TestRelative\obj\Debug\TestRelative.exe
+D:\1BOX\TestRelative\TestRelative\obj\Debug\TestRelative.pdb
